@@ -25,10 +25,6 @@
 
 </p>
 
-<!-- Screenshot -->
-<a align="center" href="https://fast-react-pizza-codepapa.vercel.app">
-
-![Screenshot](./public/thumbnail-preview.png)
 
 </a>
 
