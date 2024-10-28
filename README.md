@@ -76,18 +76,6 @@ npm run build
 ```sh
 npm run dev
 ```
-
-## Author
-
-<b>👤 Alamin</b>
-
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
-
-Feel free to contact me with any questions or feedback!
-
 ## Credits
 
 This app was created as part of [Jonas Smechmann's](https://twitter.com/jonasschmedtman) Udemy course named [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course)
