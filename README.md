@@ -2,8 +2,8 @@
 
 <h2 align="center">
 
-[🌐WebSite](https://sunnyray-react-pizza.netlify.app/)
-  <strong>Check out my live demo here</strong>
+[🌐Check out my live demo here](https://sunnyray-react-pizza.netlify.app/)
+ 
 
 </h2>
 
