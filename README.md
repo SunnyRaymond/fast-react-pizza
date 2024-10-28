@@ -1,8 +1,8 @@
-<h1 align="center">Fast React Pizza</h1>
+<h1 align="center">Fast React Pizza by Guo Yichen</h1>
 
 <h2 align="center">
 
-[🌐WebSite](https://fast-react-pizza-codepapa.vercel.app)
+[🌐WebSite](https://sunnyray-react-pizza.netlify.app/)
 
 </h2>
 
