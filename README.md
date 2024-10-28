@@ -78,6 +78,6 @@ npm run dev
 ```
 ## Credits
 
-This app was created as part of [Jonas Smechmann's](https://twitter.com/jonasschmedtman) Udemy course named [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course)
+This app was created as part of [Jonas Smechmann's](https://twitter.com/jonasschmedtman) Udemy course.
 
 Special thanks to Jonas for his excellent teaching and guidance throughout the course.
