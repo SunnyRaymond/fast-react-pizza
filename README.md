@@ -3,22 +3,19 @@
 <h2 align="center">
 
 [🌐WebSite](https://sunnyray-react-pizza.netlify.app/)
+  <strong>Check out my live demo here</strong>
 
 </h2>
+
 
 <!-- Badges -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat" alt="Status" />
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
 
-<!-- Liceensee -->
-<img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="License" />
-
-<br/>
-<a href='https://www.linkedin.com/in/yichen-guo-63756829a/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=LinkedIn&logoColor=00a0dc&labelColor=2F2F2F&color=0077b5'/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yichen-guo-63756829a/)
 
 </div>
-
 <!-- Brief -->
 <p align="center">
 
